@@ -235,8 +235,3 @@ M.Tech VLSI
 
 ---
 
-## 🔗 Project Report
-Refer full report here:
-👉 (Upload your PDF and paste link here)
-
----
